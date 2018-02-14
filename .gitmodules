@@ -1,0 +1,3 @@
+[submodule "shibboleth_login"]
+	path = shibboleth_login
+	url = https://github.com/pddg/shibboleth_login
