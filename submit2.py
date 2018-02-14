@@ -12,9 +12,11 @@ try:
     print(type(res))
 
     soup = BeautifulSoup(res.text, "lxml")
-    data_html = soup.select("html")
 
-    print(data_html)
+    information_html = soup.select("html > body > form > section > div > dl > dd")
+
+    for information in information_html:
+        print(information.get_text())
 
 except Exception:
     print("Error")
