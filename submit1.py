@@ -12,7 +12,6 @@ try:
     print(type(res))
 
     soup = BeautifulSoup(res.text, "lxml")
-
     data_html = soup.select("html")
 
     print(data_html)
