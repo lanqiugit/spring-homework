@@ -15,7 +15,6 @@ try:
 
     data_html = soup.select("html")
 
-    print(1)
     print(data_html)
 
 except Exception:
