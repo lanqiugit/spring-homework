@@ -12,7 +12,6 @@ try:
     print(type(res))
 
     soup = BeautifulSoup(res.text, "lxml")
-
     information_html = soup.select("html > body > form > section > div > dl > dd")
 
     for information in information_html:
