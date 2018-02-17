@@ -45,7 +45,7 @@ class htmlDB:
 
                 for html_date, html_charge, html_category, html_notice_main, html_notice_detail in zip(htmlDB.dates, htmlDB.charges, htmlDB.categories, htmlDB.notices_main, htmlDB.notices_detail):
                     first_insert_sql = 'insert into information (dates, charges, categories, notices_main, notices_detail) values (?,?,?,?,?)'
-                    info = (self.Enocodedata(html_date.get_text()), self.Enocodedata(html_charge.get_text()), self.Enocodedata(html_category.get_text()), self.Enocodedata(html_notice_main.get_text()), self.Enocodedata(html_notice_detail.get_text()))
+                    info = (self.EnocodeData(html_date.get_text()), self.EnocodeData(html_charge.get_text()), self.EnocodeData(html_category.get_text()), self.EnocodeData(html_notice_main.get_text()), self.EnocodeData(html_notice_detail.get_text()))
                     cur.execute(first_insert_sql, info)
 
                 connect.commit()
@@ -96,7 +96,7 @@ class htmlDB:
                 print(row['notices_main'].decode('shift_jis', 'ignore'))
                 print(row['notices_detail'].decode('shift_jis', 'ignore'))
 
-    def Enocodedata(self,target):
+    def EnocodeData(self,target):
         return target.encode('shift_jis','ignore').decode('shift_jis','ignore').strip().encode('shift_jis','ignore')
 
 

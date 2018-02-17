@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8de4b466-8e4a-4393-9e8f-6e4add61eb62" name="Default" comment="" />
+    <list default="true" id="8de4b466-8e4a-4393-9e8f-6e4add61eb62" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/submit3.py" afterPath="$PROJECT_DIR$/submit3.py" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,7 +19,7 @@
     <SUITE FILE_PATH="coverage/spring_homework$submit3SQL.coverage" NAME="submit3SQL Coverage Results" MODIFIED="1518709141300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spring_homework$submit2.coverage" NAME="submit2 Coverage Results" MODIFIED="1518697172360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/spring_homework$submit3UI.coverage" NAME="submit3UI Coverage Results" MODIFIED="1518705867575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/spring_homework$submit3__1_.coverage" NAME="submit3 (1) Coverage Results" MODIFIED="1518850059412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/spring_homework$submit3__1_.coverage" NAME="submit3 (1) Coverage Results" MODIFIED="1518851493737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
@@ -46,17 +48,17 @@
       <file leaf-file-name="submit3.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/submit3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
-              <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="414">
+              <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding>
                 <element signature="e#17#62#0" expanded="true" />
-                <marker date="1518850219562" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
-                <marker date="1518850219562" expanded="true" signature="1498:1599" ph="insert into information... " />
-                <marker date="1518850219562" expanded="true" signature="2179:2280" ph="insert into information... " />
-                <marker date="1518850219562" expanded="true" signature="2670:2778" ph="delete from " />
-                <marker date="1518850219562" expanded="true" signature="3234:3408" ph="update infor... " />
-                <marker date="1518850219562" expanded="true" signature="3240:3408" ph="delete from " />
-                <marker date="1518850219562" expanded="true" signature="3909:4015" ph="select * fro... information" />
+                <marker date="1518851533498" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
+                <marker date="1518851533498" expanded="true" signature="1498:1599" ph="insert into information... " />
+                <marker date="1518851533498" expanded="true" signature="2179:2280" ph="insert into information... " />
+                <marker date="1518851533498" expanded="true" signature="2670:2778" ph="delete from " />
+                <marker date="1518851533498" expanded="true" signature="3234:3408" ph="update infor... " />
+                <marker date="1518851533498" expanded="true" signature="3240:3408" ph="delete from " />
+                <marker date="1518851533498" expanded="true" signature="3909:4015" ph="select * fro... information" />
               </folding>
             </state>
           </provider>
@@ -115,7 +117,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="121" />
     <option name="y" value="-11" />
     <option name="width" value="914" />
@@ -289,7 +291,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="-11" width="1810" height="1222" extended-state="7" />
+    <frame x="121" y="-11" width="1810" height="1222" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -350,13 +352,13 @@
           <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
           <folding>
             <element signature="e#17#62#0" expanded="true" />
-            <marker date="1518850219562" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
-            <marker date="1518850219562" expanded="true" signature="1498:1599" ph="insert into information... " />
-            <marker date="1518850219562" expanded="true" signature="2179:2280" ph="insert into information... " />
-            <marker date="1518850219562" expanded="true" signature="2670:2778" ph="delete from " />
-            <marker date="1518850219562" expanded="true" signature="3234:3408" ph="update infor... " />
-            <marker date="1518850219562" expanded="true" signature="3240:3408" ph="delete from " />
-            <marker date="1518850219562" expanded="true" signature="3909:4015" ph="select * fro... information" />
+            <marker date="1518851533498" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
+            <marker date="1518851533498" expanded="true" signature="1498:1599" ph="insert into information... " />
+            <marker date="1518851533498" expanded="true" signature="2179:2280" ph="insert into information... " />
+            <marker date="1518851533498" expanded="true" signature="2670:2778" ph="delete from " />
+            <marker date="1518851533498" expanded="true" signature="3234:3408" ph="update infor... " />
+            <marker date="1518851533498" expanded="true" signature="3240:3408" ph="delete from " />
+            <marker date="1518851533498" expanded="true" signature="3909:4015" ph="select * fro... information" />
           </folding>
         </state>
       </provider>
@@ -532,17 +534,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/submit3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
-          <caret line="13" column="0" lean-forward="true" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="414">
+          <caret line="18" column="21" lean-forward="true" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding>
             <element signature="e#17#62#0" expanded="true" />
-            <marker date="1518850219562" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
-            <marker date="1518850219562" expanded="true" signature="1498:1599" ph="insert into information... " />
-            <marker date="1518850219562" expanded="true" signature="2179:2280" ph="insert into information... " />
-            <marker date="1518850219562" expanded="true" signature="2670:2778" ph="delete from " />
-            <marker date="1518850219562" expanded="true" signature="3234:3408" ph="update infor... " />
-            <marker date="1518850219562" expanded="true" signature="3240:3408" ph="delete from " />
-            <marker date="1518850219562" expanded="true" signature="3909:4015" ph="select * fro... information" />
+            <marker date="1518851533498" expanded="true" signature="1063:1188" ph="create table... kit_notice" />
+            <marker date="1518851533498" expanded="true" signature="1498:1599" ph="insert into information... " />
+            <marker date="1518851533498" expanded="true" signature="2179:2280" ph="insert into information... " />
+            <marker date="1518851533498" expanded="true" signature="2670:2778" ph="delete from " />
+            <marker date="1518851533498" expanded="true" signature="3234:3408" ph="update infor... " />
+            <marker date="1518851533498" expanded="true" signature="3240:3408" ph="delete from " />
+            <marker date="1518851533498" expanded="true" signature="3909:4015" ph="select * fro... information" />
           </folding>
         </state>
       </provider>
